@@ -2,7 +2,7 @@
 A repository to run GPT-J-6B on low vram systems by using both ram, vram and pinned memory.
 
 ## How to run : 
-Replace modeling_gpt_neo.py (wherever your environment's transformers\models\gpt_neo\modeling_gpt_neo.py is stored) with the one in the repo <br>
+Replace modeling_gpt_neo.py (wherever your environment's transformers\models\gpt_neo\modeling_gpt_neo.py is stored) with the one in this repo. <br>
 Use the link - https://drive.google.com/file/d/19nmS8ToTkuQdKZnxZWi4HBwQzRqp5xok/view?usp=sharing to dowload the model that has been saved as described here - https://github.com/arrmansa/saving-and-loading-large-models-pytorch
 
 # Timing
