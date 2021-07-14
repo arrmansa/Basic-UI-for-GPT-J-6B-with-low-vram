@@ -1,7 +1,7 @@
 # Basic-UI-for-GPT-J-6B-with-low-vram
 A repository to run GPT-J-6B on low vram systems by using both ram, vram and pinned memory.<br>
 
-## There seem to be some issues with the weights in the drive link. There seems to be some performance loss, most likely because of poor fp16 conversion.
+## There seem to be some issues with the weights in the drive link. There seems to be some performance loss, most likely because of poor 16 bit conversion.
 
 ## How to run : 
 Use - pip install git+https://github.com/finetuneanon/transformers@gpt-neo-localattention3 <br>
