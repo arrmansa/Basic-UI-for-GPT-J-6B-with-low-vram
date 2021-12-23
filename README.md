@@ -5,7 +5,7 @@ A repository to run GPT-J-6B on low vram systems by using both ram, vram and pin
 
 ## How to run : 
 Use - pip install git+https://github.com/finetuneanon/transformers@gpt-neo-localattention3 <br>
-Use the link - https://drive.google.com/file/d/1tboTvohQifN6f1JiSV8hnciyNKvj9pvm/view?usp=sharing  to dowload the model that has been saved as described here - https://github.com/arrmansa/saving-and-loading-large-models-pytorch <br>
+Use the link - https://drive.google.com/file/d/1tboTvohQifN6f1JiSV8hnciyNKvj9pvm/view?usp=sharing  to download the model that has been saved as described here - https://github.com/arrmansa/saving-and-loading-large-models-pytorch <br>
 
 ## Timing (2000 token context)
 ### 1
